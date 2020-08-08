@@ -1,0 +1,28 @@
+{
+    "um-box": {
+        "description": "盒子组件",
+        "attributes": [
+            "title",
+            "icon"
+        ],
+        "defaults": [
+            "title"
+        ]
+    },
+    "um-label": {
+        "description": "盒子组件",
+        "attributes": [
+            "text",
+            "type",
+            "arrowed",
+            "arrowed-in",
+            "arrowed-right",
+            "arrowed-right-in",
+            "size"
+        ],
+        "defaults": [
+            "text",
+            "type"
+        ]
+    }
+}
